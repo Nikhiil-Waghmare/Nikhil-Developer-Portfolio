@@ -8,3 +8,5 @@ pdf(dataBuffer).then(function(data) {
 }).catch(function(error) {
     console.error(error);
 });
+
+//thank you
