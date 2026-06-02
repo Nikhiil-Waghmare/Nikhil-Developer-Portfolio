@@ -1,11 +1,11 @@
 
 export const experiences = [
   {
-    title: "MERN Stack Developer",
+    title: "Full Stack Developer",
     company: "Globalion Technology Solutions Pvt. Ltd., Pune",
     date: "Oct 2023 – Present",
     isActive: true,
-    techStack: ["React.js", "Node.js", "Tailwind CSS", "REST APIs", "Payment Gateways"],
+    techStack: ["React.js", "Node.js","Express.js","MongoDB", "Tailwind CSS", "REST APIs", "Payment Gateways"],
     points: [
       "Developed and maintained multiple responsive e-commerce applications using the MERN stack, achieving a seamless cross-device user experience.",
       "Architected admin and user dashboards utilizing React Hooks and Tailwind CSS, optimizing state management and improving frontend rendering speed.",
@@ -18,7 +18,7 @@ export const experiences = [
   },
   {
     title: "MERN Stack Developer",
-    company: "COREMAGIX SOFTWARE Pvt. Ltd., Pune",
+    company: "SUBTLE SOLUTIONS Pvt. Ltd., Pune",
     date: "Jun 2022 – Aug 2023",
     isActive: false,
     techStack: ["MERN Stack", "JWT", "MongoDB", "Agile", "Postman"],
@@ -36,7 +36,7 @@ export const experiences = [
 
 export const projects = [
   {
-    title: "Loan Management System",
+    title: "Secure Banking Web Application",
     description:
       "A full-stack Loan Management System to automate the complete loan lifecycle, including application submission, approval workflows, disbursement, EMI calculations, and repayment tracking.",
     tags: ["React.js", "Node.js", "Express.js", "MongoDB"],
